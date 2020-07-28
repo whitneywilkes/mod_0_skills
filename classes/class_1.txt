@@ -1,0 +1,14 @@
+class fast food restaurant
+
+Attributes:
+- hasSeating (boolean)
+- closingTime (integer)
+- condimentOptions (array)
+- managerName (string)
+
+
+Methods:
+- catcheOnFire: (makes hasSeating attribute false)
+- closeEarly: (removes 1 from closingTime attribute)
+- fireManager: (changes managerName attribute to Sam)
+- addCondiment: (adds "Ketchup" to condimentOptions array)

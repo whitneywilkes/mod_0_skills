@@ -1,0 +1,14 @@
+Instance Sonic Drive Thru]
+
+Attributes:
+- hasSeating: (true)
+- closingTime: (12)
+- condimentOptions: ["Mustard", "Mayonaise", "Relish"]
+- managerName: ("Bryan")
+
+
+Methods:
+- catcheOnFire: False
+- closeEarly: 11
+- fireManager: Sam
+- addCondiment: "Mustard", "Mayonaise", "Relish", "Ketchup"]
