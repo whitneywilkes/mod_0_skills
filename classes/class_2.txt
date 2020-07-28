@@ -11,4 +11,4 @@ Methods:
 - changeWineReps: (makes hasOpusOneWine attribute false)
 - addEmployee: (adds 1 to the staffCount attribute)
 - loseMop: (removes mop from the staffSideWork array)
-- forgotMeatOrder: (changes tonightsSpecial string to Lentil Soup)
+- forgotMeatOrder: (changes tonightsSpecial string to Lentil Soup) 
