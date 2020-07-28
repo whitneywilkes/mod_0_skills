@@ -11,5 +11,4 @@ Methods:
 - catcheOnFire: False
 - closeEarly: 11
 - fireManager: Sam
-- addCondiment: "Mustard", "Mayonaise", "Relish", "Ketchup"]
- 
+- addCondiment: "Mustard", "Mayonaise", "Relish", "Ketchup"] 
