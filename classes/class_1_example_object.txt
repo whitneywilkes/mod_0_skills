@@ -1,4 +1,4 @@
-Instance Sonic Drive Thru]
+Instance Sonic Drive Thru
 
 Attributes:
 - hasSeating: (true)
@@ -12,3 +12,4 @@ Methods:
 - closeEarly: 11
 - fireManager: Sam
 - addCondiment: "Mustard", "Mayonaise", "Relish", "Ketchup"]
+ 
