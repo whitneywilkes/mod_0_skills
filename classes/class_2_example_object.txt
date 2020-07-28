@@ -1,0 +1,14 @@
+instance Mountain Standard
+
+Attributes:
+- hasOpusOneWine (true)
+- staffSideWork ["polish silver", "sweep", "mop"]
+- staffCount (8)
+- tonightsSpecial ("Porterhouse")
+
+
+Methods:
+- changeWineReps: false
+- addEmployee: 9
+- loseMop: ["polish silver", "sweep", "mop"]
+- forgotMeatOrder: Lentil Soup
