@@ -1,0 +1,25 @@
+var food = "20";
+var isDelicious = true;
+var food = "19";
+
+
+
+var num2 = 2;
+var num7 = 7;
+
+console.log(num2 / num7);
+
+
+
+
+var songs = ["Happy", "A of D", "Fishing"];
+songs.shift();
+
+
+
+
+var food = "20";
+var isDelicious = true;
+var food = "19";
+
+length = food.toString();
