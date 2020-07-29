@@ -22,4 +22,4 @@ var food = "20";
 var isDelicious = true;
 var food = "19";
 
-length = food.toString();
+length = food.toString(); 
