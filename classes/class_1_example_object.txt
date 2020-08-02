@@ -8,7 +8,17 @@ Attributes:
 
 
 Methods:
-- catcheOnFire: False
-- closeEarly: 11
-- fireManager: Sam
-- addCondiment: "Mustard", "Mayonaise", "Relish", "Ketchup"] 
+- catchesOnFire: hasSeating = false
+- closeEarly: closingTime = 11
+- fireManager: managerName = "Sam"
+- addCondiment: condimentOptions = ["Mustard", "Mayonaise", "Relish", "Ketchup"]
+
+
+Methods:
+- hasSeating = false
+- closingTime = 11
+- managerName = "Sam"
+- condimentOptions = ["Mustard", "Mayonaise", "Relish", "Ketchup"]
+
+//the last example was the "cleaned up" version from class example
+ 

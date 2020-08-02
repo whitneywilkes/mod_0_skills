@@ -1,14 +1,25 @@
 instance Mountain Standard
 
 Attributes:
-- hasOpusOneWine (true)
-- staffSideWork ["polish silver", "sweep", "mop"]
-- staffCount (8)
-- tonightsSpecial ("Porterhouse")
+- hasOpusOneWine: (true)
+- staffSideWork: ["polish silver", "sweep", "mop"]
+- staffCount: (8)
+- tonightsSpecial: ("Porterhouse")
 
 
 Methods:
-- changeWineReps: false
-- addEmployee: 9
-- loseMop: ["polish silver", "sweep", "mop"]
-- forgotMeatOrder: Lentil Soup
+- changeWineReps: hasOpusOneWine = false
+- loseMop: staffSideWork = ["polish silver", "sweep"]
+- addEmployee: staffCount = 9
+- forgotMeatOrder: tonightsSpecial = "Lentil Soup"
+
+
+Methods:
+- hasOpusOneWine = false
+- staffSideWork = ["polish silver", "sweep"]
+- staffCount = 9
+- tonightsSpecial = "Lentil Soup"
+
+//the last example was the "cleaned up" version from class example
+
+ 

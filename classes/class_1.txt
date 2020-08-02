@@ -8,7 +8,7 @@ Attributes:
 
 
 Methods:
-- catcheOnFire: (makes hasSeating attribute false)
+- catchesOnFire: (makes hasSeating attribute false)
 - closeEarly: (removes 1 from closingTime attribute)
 - fireManager: (changes managerName attribute to Sam)
-- addCondiment: (adds "Ketchup" to condimentOptions array)
+- addCondiment: (adds "Ketchup" to condimentOptions array)  
